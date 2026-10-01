@@ -12,8 +12,8 @@ First run
   If your game already has a soundpack installed, that pack becomes the backup. Verify the game files in the
   launcher first if you want a clean original.
 
-Switching
-- Drag a soundpack onto the desktop shortcut (or onto the window): the two .rpf files, a folder that contains them
+Changing a soundpack
+- Drag a soundpack onto the desktop shortcut (or onto the app itself): the two .rpf files, a folder that contains them
   (any depth), or a .zip/.oiv. It's saved to your library and switched in immediately.
 - In the app: double-click a pack, or select it and click "Switch to this pack".
 - "Desktop shortcut" makes a shortcut for one pack, so switching is a double-click.
